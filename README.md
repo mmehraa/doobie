@@ -14,3 +14,13 @@ Doobie is a lightweight real-time chat application built with HTML, CSS, JavaScr
 - JavaScript
 - Node.js
 - Socket.io
+
+## Getting Started
+
+To run Doobie locally, follow these steps:
+**Clone the repository:**
+   ```bash
+  - git clone https://github.com/your-username/doobie.git
+  - cd doobie
+  - npm install
+  - node server.js
