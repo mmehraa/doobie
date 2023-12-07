@@ -24,3 +24,5 @@ To run Doobie locally, follow these steps:
   - cd doobie
   - npm install
   - node server.js
+
+###Open your browser and visit http://localhost:3000 to access Doobie.
